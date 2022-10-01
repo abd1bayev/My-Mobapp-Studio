@@ -31,16 +31,23 @@ John
 
 ## Installation
 !pip install seaborn
+
 !pip install pandas
+
 !pip install matplotlib
 
 
 ## Usage
 load_dataset()
+
 print_summarize_dataset(dataset)
+
 clean_dataset(dataset)
+
 print_histograms(dataset)
+
 compute_correlations_matrix(dataset)
+
 print_scatter_matrix()
 ```
 ./my_project argument1 argument2
