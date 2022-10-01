@@ -3,7 +3,7 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="$PROJECT_DIR$/../../../../archive (1)/googleplaystore.csv">
+        <entry key="/data/googleplaystore.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
